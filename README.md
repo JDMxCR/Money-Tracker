@@ -1,30 +1,16 @@
-# expense-tracker
+## Description
 
-This template should help get you started developing with Vue 3 in Vite.
+Money Tracker is an intuitive and robust personal finance management tool designed to simplify the tracking of your financial activities. Developed with the latest Vue.js 3 framework, it leverages the Composition API and the new script setup syntax for a modular and maintainable codebase. The application facilitates the addition and removal of transactions, while ensuring data persistence through local storage. Enhanced user experience is achieved through seamless toast notifications, courtesy of toastification.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- **Add Transactions**: Seamlessly record income and expenses with a user-friendly interface.
+- **Delete Transactions**: Effortlessly manage your transaction history by removing unwanted records.
+- **Persistent Storage**: Your financial data remains secure and retrievable anytime with local storage integration.
+- **Notifications**: Stay informed with toast notifications that provide feedback on your actions within the app.
 
-## Customize configuration
+## Technology Stack
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-# Money-Tracker
+- **Vue.js 3**: Progressive JavaScript framework for building user interfaces.
+- **Composition API**: Provides a flexible way to compose component logic.
+- **Toastification**: A Vue.js plugin for toast notifications that enhances user interaction.
